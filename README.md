@@ -3,6 +3,8 @@ Purdue Pollster Bot for Pokemon Go Raid Management on Discord
 
 **This repository is expected to be completed on or around May 17th, 2019.  Please stay tuned for updates.**
 
+Join the test server to give the bot a try: https://discord.gg/KBqBtjp
+
 ************************************
 Forward Materials/Acknowledgments: 
 ************************************
