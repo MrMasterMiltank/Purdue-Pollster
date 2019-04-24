@@ -20,7 +20,7 @@ If you like this bot, pay it forward and donate whatever you can to fund pancrea
 INSTALLATION INSTRUCTIONS - OVERVIEW
 ************************************
 1) You need your own computer to host the bot with a STABLE internet connection.  
-2) Download the latest version of RED - Discord Bot and install.
+2) Download the latest version of RED - Discord Bot and install (https://github.com/Cog-Creators/Red-DiscordBot.git)
 3) Install Python and all necessary packages (this may take a while).
 4) Copy the files in this repository into the "COGS" folder of your RED INSTALLATION DIRECTORY.
 5) Configure a discord server with raid channels by region (if necessary), ex-raid channels, a raid-sightings channel (for image recognition of raid eggs/bosses), and roles to allow for notifications to be sent to users who choose to opt-in for them.
