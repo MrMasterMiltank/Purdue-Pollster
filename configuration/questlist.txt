@@ -1,0 +1,4 @@
+{
+"tasklist":["Catch 10 pokemon","Battle a gym 5 times","Make 5 great curve throws in a row","Catch 10 ground type","Catch 10 ice type","Hatch 5 eggs","Use an evolution item","Send 2 Gifts","Make 5 nice throws"],
+"rewardlist":[["MAGIKARP"],["MACHOP"],["SPINDA"],["SANDSHREW"],["KABUTO"],["CHANSEY"],["AERODACTYL"],["GASTLY"],["BIDOOF"]]
+}
