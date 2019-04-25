@@ -3,5 +3,5 @@
 "EAcommands":["ORDER","GYM","BANNED","FLOOF","CHRISTONABORK","RICKROLL","INSTINCT","BELDUMB","BORK","ABSOL","CHRISTONABIKE"],
 "EAuserids":["211862221225984000","0","0","0","0","147553893310660612","0","343017572763172865","0","147553893310660612","0"],
 "EAfilename":["order66.png","PR.gif","samuel-l-jackson-banned.gif","FLOOF.png","christonabork.gif","rickroll.gif","thes.jpg","beldum.jpg","killbork.gif","absol.jpg","christ.gif"],
-"EAminacclvl":["1","0","0","0","0","0","1","1","1","1","1"]
+"EAminacclvl":["1","0","0","0","0","0","1","1","1","1","1"] 
 }
