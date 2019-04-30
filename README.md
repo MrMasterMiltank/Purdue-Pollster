@@ -10,7 +10,7 @@ Join the test server to give the bot a try: https://discord.gg/KBqBtjp
 Forward Materials/Acknowledgments: 
 ************************************
 
-Purdue Pollster started as just a raid management tool that created channels to coordinate raids a bit more effectively than using a single raid channels.  After some initial feedback in its own Discord test server, Pollster was transplanted to a already-configured Discord server and given the ultimate test: managing and coordinatinig raids for over 2000 people.  Eventually, even more features were added to the bot, including level/team assignments, quest notifications, and most recently image recognition, again as a result of direct feedback from the community in the Greater Lafayette Area, Indiana.  Without further ado, the following people are to be recognized for their contributions to making the contents of this repository what it is today.  
+Purdue Pollster started as just a CROWD-SOURCED raid management tool that created channels to coordinate raids a bit more effectively than using a single raid channels.  After some initial feedback in its own Discord test server, Pollster was transplanted to a already-configured Discord server and given the ultimate test: managing and coordinatinig raids for over 2000 people.  Eventually, even more features were added to the bot, including level/team assignments, quest notifications, and most recently image recognition, again as a result of direct feedback from the community in the Greater Lafayette Area, Indiana.  Without further ado, the following people are to be recognized for their contributions to making the contents of this repository what it is today.  
 
 **Discord usernames and discriminators:**  
 Bot Owners: cjt217#5116, MrMasterMiltank#0265  
