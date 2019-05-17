@@ -1,0 +1,4 @@
+{
+"tasklist":["Use 5 curveball throws","Make 3 Great Throws","Make 2 Great Throws in a row","Make 5 Nice Throws","Make 3 Nice Throws in a row","Spin 2 pokestops","Use 3 Berries to catch 'mons","Evolve 2 Water Type","Battle a gym","Use a supereffective charge move","Battle in a raid","Catch 5 Water type","Catch a magikarp or wailmer","Catch a psyduck or krabby"],
+"rewardlist":[["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"],["CLAMPERL"]]
+}
