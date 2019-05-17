@@ -1,0 +1,6 @@
+['05/16/19 17:12:15', '05:00:00PM', 'MrMasterMiltank0265', 40, ' Ins. ', '2_palkia', 'purdue-bell-tower']
+['05/16/19 17:12:15', '05:00:00PM', 'MrMasterMiltank0265', 40, ' Ins. ', '2_palkia', 'purdue-bell-tower']
+['05/16/19 17:32:07', '05:20:00PM', 'MrMasterMiltank0265', 40, ' Ins. ', '1_palkia', 'purdue-bell-tower']
+['05/16/19 18:52:01', '06:40:00PM', 'MrMasterMiltank0265', 40, ' Ins. ', '3_heatran', 'wesley-foundation']
+['05/16/19 18:52:01', '06:40:00PM', 'MrMasterMiltank0265', 40, ' Ins. ', '3_heatran', 'wesley-foundation']
+['05/16/19 18:52:01', '06:40:00PM', 'MrMasterMiltank0265', 40, ' Ins. ', '3_heatran', 'wesley-foundation']

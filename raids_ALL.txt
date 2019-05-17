@@ -1,0 +1,10 @@
+RAID 0001    Boss     HEATRAN     34       commune    05/16/19 16:38:14   MrMasterMiltank
+RAID 0002     Egg     LEVEL5      34       purdueen   05/16/19 16:47:52   MrMasterMiltank
+RAID 0003    Boss     PALKIA      23       continuu   05/16/19 17:02:03   MrMasterMiltank
+RAID 0004    Boss     PALKIA      34       purduebe   05/16/19 17:03:51   MrMasterMiltank
+RAID 0005    Boss     HEATRAN     34       wesleyfo   05/16/19 18:43:20   MrMasterMiltank
+RAID 0006    Boss     SHINX       23       commune    05/16/19 18:50:27   MrMasterMiltank
+RAID 0007    Boss     DRATINI     34       columbia   05/16/19 18:51:32   MrMasterMiltank
+RAID 0008    Boss     SHINX       23       wesleyfo   05/16/19 20:03:26   MrMasterStinktank
+RAID 0009    Boss     SNEASLE     23       johnpurd   05/16/19 20:26:40   MrMasterMiltank
+RAID 0010    Boss     SHINX       33       WESLEYFO   05/16/19 20:42:42   MrMasterStinktank
