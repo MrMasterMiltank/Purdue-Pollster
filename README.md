@@ -2,7 +2,7 @@
 Purdue Pollster Bot for Crowd-Sourced Pokemon Go Raid Management on Discord
 
 **This repository is expected to be completed on or around May 17th, 2019.  Please stay tuned for updates.**
-As of May 5th, we are about 65% of the way to bot distribution!  Thanks for checking in. :)  
+On May 16th, the initial source code for the raid bot has been uploaded.  Image recognition will be uploaded within the next day or two.
 
 **If you want to get a head start, work with your community to get pokestop names/GPS-coordinates and gym names/GPS-coordinates**
 
